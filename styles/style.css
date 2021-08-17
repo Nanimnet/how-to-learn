@@ -303,6 +303,7 @@
   justify-content: space-between;
   padding-top: 60px;
   padding-bottom: 40px;
+  min-height: 250px;
 }
 
 .footer__column_content_copyright {
