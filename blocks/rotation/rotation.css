@@ -4,3 +4,8 @@
   100% { transform:rotate(360deg);
   }
 }
+
+.animation-rotation {
+  animation: rotation linear 20s infinite;
+}
+
