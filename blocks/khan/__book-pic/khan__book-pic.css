@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .khan__book-pic {
   width: 620px;
   height: 608px;
@@ -7,13 +6,3 @@
   object-fit: cover;
   object-position: top;
  }
-=======
-.khan__book-pic {
-  width: 620px;
-  height: 608px;
-  background-size: cover;
-  margin-right: 48px;
-  object-fit: cover;
-  object-position: top;
- }
->>>>>>> 8c1664e74b87dba4c612866f2beef1f56459a9ef
