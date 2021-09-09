@@ -1,3 +1,4 @@
+<<<<<<< HEAD:blocks/feynman/__link/feynman__link.css
 .feynman__link {
   font-size: 36px;
   line-height: 51px;
@@ -16,3 +17,23 @@
 .feynman__link:hover {
   opacity: 70%;
 }
+=======
+.feynman__link {
+  font-size: 36px;
+  line-height: 51px;
+  font-weight: normal;
+  margin: auto;
+  position: absolute;
+  top: 50%;
+  right: 48px;
+  text-decoration: none;
+  color: #2f80ed;
+  z-index: 2;
+  opacity: 100%;
+  transition: linear 0.2s;
+}
+
+.feynman__link:hover {
+  opacity: 70%;
+}
+>>>>>>> 8c1664e74b87dba4c612866f2beef1f56459a9ef:blocks/feynman/__link/feymann__link.css
