@@ -3,20 +3,11 @@
   height: 38px;
   background: center no-repeat;
   background-size: contain;
+  opacity: 100%;
+  transition: linear 0.2s;
 }
 
-.resources__logo-arzamas {
-  background-image: url(/images/logo/resources-arzamas.svg);
-}
 
-.resources__logo-n1 {
-  background-image: url(/images/logo/resources-n1.svg);
-}
-
-.resources__logo-strelka {
-  background-image: url(/images/logo/resources-strelka.svg);
-}
-
-.resources__logo-polka {
-  background-image: url(/images/logo/resources-polka.svg);
+.resources__logo:hover {
+opacity: 70%;
 }
